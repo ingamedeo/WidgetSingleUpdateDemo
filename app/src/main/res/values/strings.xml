@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WidgetDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_config">ConfigActivity</string>
+    <string name="update_text">Update Widget</string>
+    <string name="welcome">Widget Demo App - By Amedeo Arch</string>
+    <string name="number_def">Number</string>
+
+</resources>

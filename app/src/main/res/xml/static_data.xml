@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<appwidget-provider
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:initialLayout="@layout/widget"
+    android:minHeight="20dp"
+    android:minWidth="100dp"
+    android:updatePeriodMillis="300000"
+    android:resizeMode="horizontal|vertical"
+    android:configure="com.ingamedeo.widgetdemo.ConfigActivity">
+    </appwidget-provider>
+
+<!--  Warning! Using a fully qualified namespace is very important here ;)
+ That's why you SHOULD always do it! Then...Up to you!
+
+
+     android:configure="com.ingamedeo.widgetdemo.ConfigActivity"
+ -->
