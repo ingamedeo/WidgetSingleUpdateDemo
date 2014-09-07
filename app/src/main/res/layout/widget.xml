@@ -3,9 +3,19 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:id="@+id/widget_lay">
+    android:id="@+id/widget_lay"
+    android:gravity="center">
 
-    <TextView
+    <ImageView
+        android:id="@+id/number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>
+
+    <!--
+
+        <TextView
         android:id="@+id/number"
         style="@android:style/TextAppearance.Medium"
         android:layout_width="match_parent"
@@ -14,4 +24,4 @@
         android:gravity="center_horizontal|center_vertical"
         android:text="@string/number_def"/>
 
-</LinearLayout>
+    -->
