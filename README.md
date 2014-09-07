@@ -8,6 +8,8 @@ Android Java Widget Demo implementation, shows a random number between 0 and 100
 
 Includes Config Activity with a nice Color Picker to allow custom Widget background!
 
+Update: Added Custom Font!
+
 Enjoy!
 
 Version
